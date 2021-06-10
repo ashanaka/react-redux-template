@@ -1,2 +1,2 @@
 # react-redux-template
-This is a redux template for all operations from the scratch.
+This is a redux template built from the scratch.
